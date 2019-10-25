@@ -1,0 +1,3 @@
+2019/09/27-14:33:50.146 18449 Reusing MANIFEST /home/kasuke/.config/Franz/Partitions/service-7f221ddb-05e1-45ff-98aa-401d2d0956e0/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/27-14:33:50.146 18449 Recovering log #3
+2019/09/27-14:33:50.152 18449 Reusing old log /home/kasuke/.config/Franz/Partitions/service-7f221ddb-05e1-45ff-98aa-401d2d0956e0/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000003.log 

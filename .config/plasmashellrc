@@ -1,0 +1,68 @@
+[Containments][24][General]
+AppletOrder=25;26;27;28;30;31
+
+[Containments][29][General]
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications
+knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications
+
+[Containments][45][General]
+AppletOrder=46;47;48;49;51;52
+
+[Containments][50][General]
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications
+knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications
+
+[Containments][65][General]
+AppletOrder=66;67;69;71;72
+
+[Containments][70][General]
+extraItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications
+knownItems=org.kde.plasma.bluetooth,org.kde.plasma.battery,org.kde.plasma.volume,org.kde.plasma.mediacontroller,org.kde.plasma.networkmanagement,org.kde.plasma.clipboard,org.kde.plasma.vault,org.kde.plasma.devicenotifier,org.kde.discovernotifier,org.kde.plasma.keyboardindicator,org.kde.plasma.notifications
+
+[PlasmaRunnerManager]
+LaunchCounts=1 services_kcm_desktoptheme.desktop,1 services_sublime_text.desktop,1 services_kcm_networkmanagement.desktop,1 services_franz.desktop,2 services_urxvt.desktop,1 services_kcm_keyboard.desktop,4 services_spectacle -a
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 103][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 2][Horizontal640]
+thickness=28
+
+[PlasmaViews][Panel 24][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 43][Vertical1080]
+thickness=40
+
+[PlasmaViews][Panel 44][Vertical1080]
+thickness=40
+
+[PlasmaViews][Panel 45][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 64][Vertical1080]
+thickness=40
+
+[PlasmaViews][Panel 65][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 65][Vertical1080]
+thickness=30
+
+[PlasmaViews][Panel 84][Horizontal1920]
+thickness=40
+
+[PlasmaViews][Panel 84][Vertical1080]
+thickness=30
+
+[ScreenConnectors]
+0=eDP-1-1
+1=DP-2
+2=HDMI-0
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

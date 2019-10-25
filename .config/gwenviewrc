@@ -1,0 +1,34 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+SideBarPage=operations
+
+[MainWindow]
+Height 1080=480
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPXAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=828
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Téléchargements/thumb-1920-701997.jpg
+File2[$e]=$HOME/Téléchargements/wp2563084-genji-wallpaper.jpg
+File3[$e]=$HOME/Images/gengo night.png
+File4[$e]=$HOME/Images/genji space test.jpg.png
+File5[$e]=$HOME/Téléchargements/158524.jpg
+File6[$e]=$HOME/Documents/S8/CCNA CISCO/Screenshot_20190514_140139.png
+File7[$e]=$HOME/Documents/S8/CCNA CISCO/nike.png
+File8[$e]=$HOME/Pictures/Screenshot_20190910_102303.png
+Name1[$e]=thumb-1920-701997.jpg
+Name2[$e]=wp2563084-genji-wallpaper.jpg
+Name3[$e]=gengo night.png
+Name4[$e]=genji space test.jpg.png
+Name5[$e]=158524.jpg
+Name6[$e]=Screenshot_20190514_140139.png
+Name7[$e]=nike.png
+Name8[$e]=Screenshot_20190910_102303.png
+
+[SideBar]
+SideBarSplitterSizes=352,1565

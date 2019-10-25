@@ -1,0 +1,13 @@
+[General]
+default-save-location[$e]=$HOME/Pictures
+lastSaveAsFile=file:///home/kasuke/Documents/S8/CCNA CISCO/Screenshot_20190514_140139.png
+lastSaveFile=file:///home/kasuke/Pictures/Screenshot_20190911_105525.png
+
+[GuiConfig]
+cropRegion=0,0,0,0
+lastUsedSaveMode=0
+window-position=50,50
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Documents/S8/CCNA CISCO/nike.png,file:$HOME/Documents/S8/CCNA CISCO/Screenshot_20190514_140139.png
+Recent URLs[$e]=file:$HOME/Documents/S8/CCNA CISCO/

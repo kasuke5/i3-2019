@@ -1,0 +1,3 @@
+2019/09/27-14:33:48.452 18802 Reusing MANIFEST /home/kasuke/.config/Franz/Partitions/service-bfe53538-ff1a-4ca9-929a-c9c7a045a1da/IndexedDB/https_messages.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/09/27-14:33:48.452 18802 Recovering log #3
+2019/09/27-14:33:48.452 18802 Reusing old log /home/kasuke/.config/Franz/Partitions/service-bfe53538-ff1a-4ca9-929a-c9c7a045a1da/IndexedDB/https_messages.google.com_0.indexeddb.leveldb/000003.log 

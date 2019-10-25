@@ -1,0 +1,47 @@
+2019-09-12 14:07:51 INFO logger.py:126 Log level: INFO
+2019-09-12 14:07:51 INFO main.py:256 GNS3 GUI version 2.2.0dev17
+2019-09-12 14:07:51 INFO main.py:257 Copyright (c) 2007-2019 GNS3 Technologies Inc.
+2019-09-12 14:07:51 INFO main.py:259 Application started with /usr/bin/gns3
+2019-09-12 14:08:01 ERROR local_server.py:488 Local server process has stopped
+2019-09-12 14:08:01 ERROR local_server.py:490 Traceback (most recent call last):
+  File "/usr/bin/gns3server", line 11, in <module>
+    load_entry_point('gns3-server===2.2.0dev17-6ec5683c', 'console_scripts', 'gns3server')()
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/main.py", line 82, in main
+    from gns3server.run import run
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/run.py", line 32, in <module>
+    from gns3server.web.web_server import WebServer
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/web/web_server.py", line 37, in <module>
+    from .route import Route
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/web/route.py", line 30, in <module>
+    from ..compute.error import NodeError, ImageMissingError
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/compute/__init__.py", line 25, in <module>
+    from .qemu import Qemu
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/compute/qemu/__init__.py", line 32, in <module>
+    from .qemu_vm import QemuVM
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/compute/qemu/qemu_vm.py", line 1643
+    options.extend(["-device", 'ahci,id=ahci{}.format(disk_index)])
+                                                                  ^
+SyntaxError: EOL while scanning string literal
+
+2019-09-12 14:08:11 ERROR local_server.py:488 Local server process has stopped
+2019-09-12 14:08:11 ERROR local_server.py:490 Traceback (most recent call last):
+  File "/usr/bin/gns3server", line 11, in <module>
+    load_entry_point('gns3-server===2.2.0dev17-6ec5683c', 'console_scripts', 'gns3server')()
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/main.py", line 82, in main
+    from gns3server.run import run
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/run.py", line 32, in <module>
+    from gns3server.web.web_server import WebServer
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/web/web_server.py", line 37, in <module>
+    from .route import Route
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/web/route.py", line 30, in <module>
+    from ..compute.error import NodeError, ImageMissingError
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/compute/__init__.py", line 25, in <module>
+    from .qemu import Qemu
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/compute/qemu/__init__.py", line 32, in <module>
+    from .qemu_vm import QemuVM
+  File "/usr/lib/python3.7/site-packages/gns3_server-2.2.0dev17_6ec5683c-py3.7.egg/gns3server/compute/qemu/qemu_vm.py", line 1643
+    options.extend(["-device", 'ahci,id=ahci{}.format(disk_index)])
+                                                                  ^
+SyntaxError: EOL while scanning string literal
+
+2019-09-12 14:08:12 INFO main.py:287 Signal received exiting the application
