@@ -7,6 +7,7 @@ zsh theme: powerlevel10k
 # Preview de ce que j'ai pour le moment
 ![screen](https://i.imgur.com/SHcgkR1.png "Screen")
 ![screen2](https://i.imgur.com/RRj09gs.png "Screen2")
+![screen3](https://imgur.com/a/mEvvnsx "Screen3")
 
 # Pour le réseau, lancer nmtui
 
